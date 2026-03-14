@@ -8,7 +8,7 @@ This project analyzes Superstore sales data using Microsoft Power BI to understa
 - Data Visualization
 
 ## Dashboard Preview
-
+![Dashboard](https://github.com/ap-darshan/PowerBI-Superstore-Sales-Dashboard/blob/main/Power%20BI%20Dashboard.png)
 
 ## Key Insights
 - Sales by Category
