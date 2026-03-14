@@ -1,19 +1,18 @@
-# Superstore Sales Analysis Dashboard
+# Superstore Sales Analysis using Power BI
 
-This project analyzes Superstore sales data using Microsoft Power BI. 
-The dashboard provides insights into sales performance, customer segments, 
-product categories, and regional distribution.
+This project analyzes Superstore sales data using Microsoft Power BI to understand sales trends and business insights.
 
-Tools Used:
+## Tools Used
 - Microsoft Power BI
 - CSV Dataset
 - Data Visualization
 
-Dashboard Features:
+## Dashboard Preview
+
+
+## Key Insights
 - Sales by Category
 - Sales by Segment
 - Sales by Region
 - Sales by Sub-Category
 - Sales Distribution by State
-- Interactive Filters
-[dashboard] 
