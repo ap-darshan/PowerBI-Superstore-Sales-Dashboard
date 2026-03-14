@@ -16,3 +16,4 @@ Dashboard Features:
 - Sales by Sub-Category
 - Sales Distribution by State
 - Interactive Filters
+[dashboard] "C:\Users\Darshan_ap\OneDrive\Pictures\Screenshots\Power BI Dashboard.png"
